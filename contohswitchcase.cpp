@@ -52,7 +52,8 @@ int main()
             break;
 
         default:
-            cout << "pilihan anda salah" << endl break;
+            cout << "pilihan anda salah" << endl 
+            break;
             
         }
     } while (pilihan != 3);
